@@ -8,6 +8,7 @@ Help us give you the thanks you deserve! Please ensure that all contributing mem
 * List of all Contributors:
 Esteban Dozsa
 Cori O'Brien
+Nicolas Campbell
 
 ### Project Vision (Your first task as a team)
 Create an Open Source app connected to Salesforce that works offline and syncs online.
