@@ -1,5 +1,5 @@
 ### Project Name
-Trish Offline App
+Trish Offline App - UPDATE Jan 5th 2021 - This repo is archived in place of migrated repo (from Hayden Hall) called Grassroots Mobile App https://github.com/SFDO-Community-Sprints/GrassRootsSurveyMobileApp
 
 ### Project Team
 Help us give you the thanks you deserve! Please ensure that all contributing members of the team are included!
